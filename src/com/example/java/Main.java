@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        animal cat = new animal();
-        cat.x=1;
-        cat.y=2;
-        System.out.println("Hello, world. "+cat.x+"+"+cat.y+"="+cat.sum());
+        animal pig = new animal();
+        pig.x=1;
+        pig.y=2;
+        System.out.println("Hello, world. "+pig.x+"+"+pig.y+"="+pig.sum());
     }
 }
